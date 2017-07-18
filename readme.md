@@ -1,6 +1,4 @@
 ## Normal Mode
-All assets can be found [here](https://github.com/tiy-lv-fullstack-06-2017/EtsyAssignment).
-
 Re-Create An Etsy Page - https://www.etsy.com/search?q=whiskey
 
 1. Utilize the data for whatever search term you use - [DATA HERE](https://api.etsy.com/v2/listings/active?api_key=h9oq2yf3twf4ziejn10b717i&keywords=whiskey&includes=Images,Shop). Be sure to use XHR to grab the data. You will need to have the CORS extension turned on in your browser.
