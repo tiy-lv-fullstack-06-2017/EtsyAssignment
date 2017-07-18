@@ -1,5 +1,5 @@
 ## Normal Mode
-All assets can be found here:
+All assets can be found [here](https://github.com/tiy-lv-fullstack-06-2017/EtsyAssignment).
 
 Re-Create An Etsy Page - https://www.etsy.com/search?q=whiskey
 
